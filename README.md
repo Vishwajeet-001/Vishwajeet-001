@@ -1,32 +1,24 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
 # 👋 Hi, I'm Vishwajeet Gupta
 
-### ☁️ Cloud & DevOps Enthusiast • Software Developer
+### ☁️ Cloud & DevOps Enthusiast | Software Developer
 
 <p>
-  <a href="https://github.com/vishwajeet-001">
-    <img src="https://komarev.com/ghpvc/?username=vishwajeet-001&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/vishwajeet-001?tab=followers">
-    <img src="https://img.shields.io/github/followers/vishwajeet-001?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/vishwajeet-001?tab=repositories">
-    <img src="https://img.shields.io/github/stars/vishwajeet-001?affiliations=OWNER&style=flat&color=yellow" alt="GitHub Stars"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=vishwajeet-001&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/vishwajeet-001?label=Followers&style=flat&color=0e75b6" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/vishwajeet-001?affiliations=OWNER&style=flat&color=yellow" alt="Stars"/>
 </p>
 
 <p>
+  <a href="https://github.com/vishwajeet-001">
+    <img src="https://img.shields.io/badge/GitHub-vishwajeet--001-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
   <a href="https://www.linkedin.com/in/vishwajeet-gupta-6b942137b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:vishugupta6504125@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://github.com/vishwajeet-001">
-    <img src="https://img.shields.io/badge/GitHub-vishwajeet--001-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -36,119 +28,67 @@
 
 ## 🚀 About Me
 
-I'm a **Cloud & DevOps enthusiast** who enjoys building, deploying, and automating applications.
+I'm a **Cloud & DevOps enthusiast** who enjoys building, deploying, automating, and monitoring applications.
 
-My interests revolve around:
+My primary interests include:
 
 * ☁️ Cloud Computing & Cloud Architecture
-* ⚙️ DevOps, CI/CD & Automation
-* 🐳 Containerization with Docker
+* ⚙️ DevOps & CI/CD Automation
+* 🐳 Docker & Containerization
 * 🐧 Linux & Server Administration
-* 🔐 Cloud Security, IAM & Networking
+* 🔐 Cloud Security & IAM
+* 🌐 Networking & Infrastructure
 * ⚡ Serverless Architecture
 * 💻 Software Development
 * 🧩 Data Structures & Algorithms using Java
 
-I enjoy understanding how applications move from **code → infrastructure → deployment → monitoring**.
+I enjoy understanding the complete journey of an application:
 
 > **Code → Containerize → Automate → Deploy → Monitor → Scale**
 
 ---
 
-## ☁️ Cloud & DevOps Focus
+# ☁️ Cloud & DevOps
 
-| Area               | Technologies                           |
-| ------------------ | -------------------------------------- |
-| ☁️ Cloud           | AWS • Azure • GCP                      |
-| ⚙️ DevOps          | Git • GitHub • Docker • CI/CD          |
-| 🏗️ Infrastructure | Linux • Apache • Nginx • Networking    |
-| 🔐 Security        | IAM • Security Groups • Cloud Security |
-| ⚡ Serverless       | AWS Lambda • S3 • API Gateway          |
-| 📊 Monitoring      | CloudWatch • Logs • Monitoring         |
-| 💻 Development     | Java • JavaScript • React • Python     |
-| 🗄️ Databases      | MySQL • Oracle SQL                     |
+<p align="center">
 
----
-
-## 🛠️ Tech Stack
-
-### ☁️ Cloud & DevOps
-
-<p align="left">
-
-<a href="https://aws.amazon.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
-</a>
-
-<a href="https://azure.microsoft.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" height="45" alt="Azure"/>
-</a>
-
-<a href="https://cloud.google.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="GCP"/>
-</a>
-
-<a href="https://www.docker.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
-</a>
-
-<a href="https://www.jenkins.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
-
-<a href="https://kubernetes.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="45" height="45" alt="Kubernetes"/>
-</a>
-
-<a href="https://www.linux.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-</a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
 </p>
 
-### 💻 Programming & Development
+### AWS
 
-<p align="left">
+`EC2` `S3` `IAM` `VPC` `Lambda` `API Gateway` `CloudWatch` `EBS`
 
-<a href="https://www.java.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-</a>
+### DevOps
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</a>
+`Git` `GitHub` `Docker` `CI/CD` `Jenkins` `Linux` `Apache` `Nginx`
 
-<a href="https://react.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-</a>
+### Infrastructure
 
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-</a>
+`Networking` `VPC` `Security Groups` `IAM` `Serverless` `Cloud Monitoring`
 
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-</a>
+---
 
-<a href="https://www.oracle.com/database/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
-</a>
+# 💻 Development
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-</a>
+<p align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-</a>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </p>
 
@@ -158,79 +98,156 @@ I enjoy understanding how applications move from **code → infrastructure → d
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishwajeet-001&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vishwajeet-001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet-001&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=vishwajeet-001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet-001&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-[![Vishwajeet's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwajeet-001&theme=tokyo-night&hide_border=true&area=true)](https://github.com/vishwajeet-001)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vishwajeet-001/vishwajeet-001/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
-> **Note:** The snake requires a GitHub Actions workflow in your profile repository. Setup instructions are provided below.
-
----
-
-# 📦 Featured Projects
+# 🔥 Contribution Streak
 
 <div align="center">
 
 <a href="https://github.com/vishwajeet-001">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeet-001&repo=Serverless-Image-Processing-System&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=vishwajeet-001&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </a>
 
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
 <a href="https://github.com/vishwajeet-001">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeet-001&repo=Link-Intelligence-and-Analytics-Dashboard&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwajeet-001&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishwajeet-001/vishwajeet-001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishwajeet-001/vishwajeet-001/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vishwajeet-001/vishwajeet-001/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 📦 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/vishwajeet-001?tab=repositories">
+<img src="https://img.shields.io/badge/📦%20Repositories-View%20All-0e75b6?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/vishwajeet-001?tab=stars">
+<img src="https://img.shields.io/badge/⭐%20Stars-View%20Stars-yellow?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/vishwajeet-001?tab=followers">
+<img src="https://img.shields.io/badge/👥%20Followers-View%20Followers-2ea44f?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishwajeet-001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/vishwajeet-001/Serverless-Image-Processing-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeet-001&repo=Serverless-Image-Processing-System&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/vishwajeet-001/Link-Intelligence-and-Analytics-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwajeet-001&repo=Link-Intelligence-and-Analytics-Dashboard&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
 ### ☁️ Serverless Image Processing System
 
-A serverless image-processing application designed around cloud-native architecture.
+A cloud-native image processing application built around serverless architecture.
 
-**Focus:** AWS Lambda • S3 • API Gateway • Serverless Architecture • Image Processing
+**Technologies:**
+`AWS Lambda` `S3` `API Gateway` `Python` `Pillow` `Serverless Architecture`
+
+---
 
 ### 📊 Link Intelligence & Analytics Dashboard
 
 A frontend analytics dashboard that simulates link-click activity, bot traffic, animated analytics, and fraud-risk scoring through client-side logic.
 
-**Focus:** JavaScript • Analytics • Data Visualization • Frontend Engineering
+**Technologies:**
+`JavaScript` `HTML` `CSS` `Analytics` `Data Visualization`
 
-> Replace the repository names above with the **exact GitHub repository names** if they are different.
+---
+
+# 🧠 Problem Solving
+
+Currently strengthening **Data Structures & Algorithms using Java**.
+
+### Topics
+
+`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues`
+
+`Trees` • `Graphs` • `Recursion` • `Binary Search` • `Dynamic Programming`
+
+---
+
+# 🔭 Currently Exploring
+
+```text
+☁️ AWS & Cloud Architecture
+🐳 Docker & Containerization
+⚙️ CI/CD & Automation
+🐧 Linux
+🔐 Cloud Security
+⚡ Serverless Architecture
+🏗️ Infrastructure Automation
+🌐 Cloud Networking
+📊 Monitoring & Observability
+```
+
+---
+
+# 🎯 Current Goals
+
+* Build production-style cloud projects
+* Strengthen AWS architecture skills
+* Improve DevOps & CI/CD knowledge
+* Learn Infrastructure as Code
+* Improve Linux and networking skills
+* Strengthen DSA and problem solving
+* Explore cloud security
+* Contribute to open source
 
 ---
 
@@ -238,77 +255,16 @@ A frontend analytics dashboard that simulates link-click activity, bot traffic, 
 
 <div align="center">
 
-<a href="https://leetcode.com/Namang_/">
-<img src="https://img.shields.io/badge/LeetCode-vishwajeet__gupta-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/vishwajeet_gupta/">
+<img src="https://img.shields.io/badge/LeetCode-vishwajeet__gupta-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://codeforces.com/profile/vishugupta6504125">
-<img src="https://img.shields.io/badge/Codeforces-vishugupta6504125-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-vishugupta6504125-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🧠 Problem Solving
-
-Currently practicing **Data Structures & Algorithms using Java**.
-
-### Topics I'm working on
-
-`Arrays` `Strings` `Linked Lists` `Stacks` `Queues`
-`Trees` `Graphs` `Recursion` `Dynamic Programming` `Binary Search`
-
----
-
-# 🔭 Currently Exploring
-
-```text
-☁️ AWS
-🐳 Docker
-⚙️ CI/CD
-🐧 Linux
-🔐 Cloud Security
-⚡ Serverless Architecture
-🏗️ Infrastructure Automation
-📡 Cloud Networking
-📊 Monitoring & Observability
-```
-
----
-
-# 🎯 2026 Focus
-
-```text
-✓ Strengthen AWS & Cloud Architecture
-✓ Build production-style cloud projects
-✓ Improve DevOps & CI/CD skills
-✓ Learn Infrastructure as Code
-✓ Strengthen Linux & Networking
-✓ Improve DSA & Problem Solving
-✓ Contribute to Open Source
-```
-
----
-
-# 📌 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/vishwajeet-001?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/vishwajeet-001?tab=stars">
-<img src="https://img.shields.io/badge/Stars-Explore-yellow?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/vishwajeet-001?tab=projects">
-<img src="https://img.shields.io/badge/Projects-Explore-purple?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
@@ -325,6 +281,10 @@ Currently practicing **Data Structures & Algorithms using Java**.
 
 <a href="mailto:vishugupta6504125@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-vishugupta6504125-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vishwajeet-001">
+<img src="https://img.shields.io/badge/GitHub-vishwajeet--001-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
