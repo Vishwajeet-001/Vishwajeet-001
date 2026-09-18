@@ -240,7 +240,7 @@ A frontend analytics dashboard that simulates link-click activity, bot traffic, 
 
 <div align="center">
 
-<a href="https://leetcode.com/vishwajeet_gupta/">
+<a href="https://leetcode.com/Vishwajeet_gupta/">
 <img src="https://img.shields.io/badge/LeetCode-vishwajeet__gupta-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
