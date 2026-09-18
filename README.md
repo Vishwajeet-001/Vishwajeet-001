@@ -178,13 +178,11 @@ I enjoy understanding how applications move from **code → infrastructure → d
 
 ## 📈 Contribution Activity
 
+## 📈 GitHub Activity
+
 <div align="center">
 
-<a href="https://github.com/vishwajeet-001">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwajeet-001&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
-</a>
+[![Vishwajeet's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwajeet-001&theme=tokyo-night&hide_border=true&area=true)](https://github.com/vishwajeet-001)
 
 </div>
 
